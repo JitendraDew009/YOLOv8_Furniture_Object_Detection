@@ -1,0 +1,7 @@
+path: C:\Users\Jitendra Dewangan\Desktop\Furniture.v1-furnitureobjects.yolov8
+train: train/images
+val: valid/images
+names:
+  0: Chair
+  1: Sofa
+  2: Table
